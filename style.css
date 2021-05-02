@@ -112,7 +112,6 @@ src: url(bday.ttf);
     border: 5px solid #fff;
     }
 }
-
 @media screen and (max-width:800px){
     .bday{
         font-size: 50px;
